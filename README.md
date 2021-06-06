@@ -8,17 +8,14 @@
   Global financial market data, cloud-hosted.
 </p>
 
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=ffffff&labelColor=24292E" alt="License">
-  
+<p align="center">  
   <img src="https://img.shields.io/github/forks/joziasmartini/datatrade?label=forks&message=MIT&color=ffffff&labelColor=24292E" alt="Forks">     
-  
   <img src="https://img.shields.io/github/stars/joziasmartini/datatrade?label=stars&message=MIT&color=ffffff&labelColor=24292E" alt="Stars">
 </p>
 
 ## Project
 
-This project was initiated by realizing the lack of information about the global financial market through open apis. 
+This project was initiated by realizing the lack of information about the global financial market through open apis.
 
 The data provided here are real but out of date. They should not be used for trading on the stock exchange.
 
