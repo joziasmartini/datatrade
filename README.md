@@ -102,4 +102,4 @@ The last update of the database was in 07/20/2021.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is under a private license, that is, its code cannot be distributed, modified or used by third parties.
