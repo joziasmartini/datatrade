@@ -1,16 +1,9 @@
 <p align="center">
-  <img alt="Datatrade Icon" src=".github/icon.svg" width="68px">
+  <img alt="Datatrade Icon" src=".github/datatrade-logo-500.png">
 </p>
-
-<h1 align="center">Datatrade</h1>
 
 <p align="center">
   Global financial market data, cloud-hosted.
-</p>
-
-<p align="center">  
-  <img src="https://img.shields.io/github/forks/joziasmartini/datatrade?label=forks&message=MIT&color=ffffff&labelColor=24292E" alt="Forks">     
-  <img src="https://img.shields.io/github/stars/joziasmartini/datatrade?label=stars&message=MIT&color=ffffff&labelColor=24292E" alt="Stars">
 </p>
 
 ## Project
