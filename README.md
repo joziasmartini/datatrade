@@ -1,5 +1,7 @@
+<br>
+
 <p align="center">
-  <img src="/img/datatrade-logo.png">
+  <img src="/img/datatrade-logo.png" width="800">
 </p>
 
 <p align="center">
