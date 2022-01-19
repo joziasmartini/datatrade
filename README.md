@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Datatrade Icon" src=".github/datatrade-logo-500.png">
+  <img src="/img/datatrade-logo.png">
 </p>
 
 <p align="center">
