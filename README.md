@@ -9,12 +9,16 @@
 </p>
 
 ## Project
-
 This project was initiated by realizing the lack of information about the global financial market through open apis.
 
 The data provided here are real but out of date. They should not be used for trading on the stock exchange.
 
 For now, this project is under private development. This will be changed later.
+
+## Structure
+This is how the API is structured in AWS and exposed to final users.
+
+<img src="/img/diagram.png">
 
 ## Crypto
 A cryptocurrency is a tradable digital asset or digital form of money, built on blockchain technology that only exists online.
