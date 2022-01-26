@@ -18,6 +18,8 @@ For now, this project is under private development. This will be changed later.
 ## Structure
 This is how the API is structured in AWS and exposed to final users.
 
+Some technical details are not being exposed here for security reasons.
+
 <img src="/img/diagram.png">
 
 ## Crypto
