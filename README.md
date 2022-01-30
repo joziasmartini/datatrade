@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img src="/img/datatrade-logo.png" width="580">
+  <img src="/img/datatrade-logo.png" width="834">
 </p>
 
 <p align="center">
@@ -18,9 +18,11 @@ Thinking about solving this problem, Datatrade emerged, a robust and cloud-based
 ## Structure
 This is how the API is structured in AWS and exposed to final users.
 
-Some technical details are not being exposed here for security reasons.
+<p align="center">
+  <img src="/img/diagram.png" width="834">
+</p>
 
-<img src="/img/diagram.png">
+Some technical details are hidden for security reasons.
 
 ## Markets
 
