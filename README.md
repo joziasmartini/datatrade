@@ -19,7 +19,7 @@ Thinking about solving this problem, Datatrade emerged, a robust and cloud-based
 This is how the API is structured in AWS and exposed to final users.
 
 <p align="center">
-  <img src="/img/diagram.png" width="834">
+  <img src="/img/diagram.png" width="667.2">
 </p>
 
 Some technical details are hidden for security reasons.
