@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Global financial market data, cloud-hosted.
+  Financial market data hosted in the cloud.
 </p>
 
 ## Project
